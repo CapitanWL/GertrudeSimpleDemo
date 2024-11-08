@@ -1,3 +1,5 @@
 # ГертрудаПростойДемо
 
-## https://github.com/CapitanWL/GertrudeSimpleDemo/wiki
+## https://github.com/CapitanWL/GertrumeSimpleDemo/wiki
+
+## https://capitanwl.github.io/GertrumeSimpleDemo/
