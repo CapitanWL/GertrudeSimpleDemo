@@ -1,0 +1,278 @@
+{
+  "source_base_path": "C:/Users/Capitan/Desktop/KITP-4-course/TRPO/TRPO_Sharapova_Lab7/GertrudeSimpleDemo/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Controllers.UserController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Controllers.UserController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Controllers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.DTOs.AuthDto.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.DTOs.AuthDto.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.DTOs.RegisterDto.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.DTOs.RegisterDto.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.DTOs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.DTOs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Intarfaces.IUserService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Intarfaces.IUserService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Intarfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Intarfaces.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.ApplicationDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.ApplicationDbContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.History.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.History.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.Language.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.Language.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.Metric.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.Metric.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.MetricsLineOfCodeInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.MetricsLineOfCodeInterval.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.Project.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.ProjectMetric.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.ProjectMetric.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.User.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.UserKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.UserKey.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Services.UserServise.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Services.UserServise.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/server.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/server.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
